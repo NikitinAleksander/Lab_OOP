@@ -1,0 +1,12 @@
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\lab_5.exe.config
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\lab_5.exe
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\lab_5.pdb
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.csprojAssemblyReference.cache
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.exe
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.pdb
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\System.Data.SQLite.dll
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\System.Data.SQLite.xml
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\bin\Debug\System.Data.SQLite.dll.config
+C:\ \учеба\3 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.csproj.CopyComplete
