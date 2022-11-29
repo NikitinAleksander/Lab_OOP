@@ -1,0 +1,14 @@
+C:\Users\383\source\repos\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\383\source\repos\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\383\source\repos\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\383\source\repos\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\383\source\repos\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\383\source\repos\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\383\source\repos\Project4\Project4\obj\Debug\Project4.pdb
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\bin\Debug\Project4.exe.config
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\bin\Debug\Project4.exe
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\bin\Debug\Project4.pdb
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\obj\Debug\Project4.exe
+C:\ \учеба\3 семестр\ооп\лаб 2\Project4\Project4\obj\Debug\Project4.pdb
