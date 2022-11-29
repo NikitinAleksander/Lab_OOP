@@ -1,0 +1,7 @@
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\bin\Debug\лаб7.exe.config
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\bin\Debug\лаб7.exe
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\bin\Debug\лаб7.pdb
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\obj\Debug\лаб7.csprojAssemblyReference.cache
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\obj\Debug\лаб7.csproj.CoreCompileInputs.cache
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\obj\Debug\лаб7.exe
+C:\ \учеба\3 семестр\ооп\лаб7\лаб7\obj\Debug\лаб7.pdb
